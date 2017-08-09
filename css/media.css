@@ -1,0 +1,160 @@
+@media screen and (max-width: 1280px) {
+    #slider .logo-img {
+        top: 242px;
+    }
+
+    #slider h1 {
+        margin-top: 183px;
+        font-size: 53px;
+        padding-bottom: 4px;
+    }
+
+    #cup h2{
+        font-size: 26px;
+    }
+
+}
+    #slider h4 {
+        font-size: 26px;
+
+    }
+
+@media screen and (max-width: 1024px){
+
+}
+
+
+
+@media screen and (max-width: 980px) {
+    #slider h1 {
+        margin-top: 183px;
+        font-size: 41px;
+        padding-bottom: 4px;
+    }
+
+    #slider .logo-img {
+        width: 141px;
+        position: relative;
+
+    }
+
+    #cup p {
+        margin-left: 269px;
+    }
+}
+
+
+@media screen and (max-width: 800px){
+    #slider h1 {
+        margin-top: 183px;
+        font-size: 36px;
+        padding-bottom: 4px;
+    }
+
+    #slider .logo-img {
+        top: 245px;
+        width: 125px;
+    }
+
+    #cup h2{
+        margin-left: 153px;
+    }
+
+    #cup p{
+        margin-left: 148px;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    #slider h1 {
+        margin-top: 183px;
+        font-size: 32px;
+        padding-bottom: 4px;
+    }
+    #slider .logo-img {
+        width: 137px;
+        position: relative;
+        top: 252px;
+    }
+
+    #cup h2{
+        margin-left: 128px;
+    }
+    #cup p {
+        margin-left: 123px;
+        margin-top: -9px;
+    }
+    #profile h2 {
+        font-weight: bold;
+        font-size: 51px;
+        margin-top: 20px;
+        margin-bottom: 24px;
+    }
+    #profile h4 {
+        margin-left: 13px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 480px){
+
+}
+
+
+
+@media screen and (max-width: 360px){
+    body{
+        width: 360px;
+    }
+    #slider h1 {
+        margin-top: 183px;
+        font-size: 15px;
+        padding-bottom: -5px;
+    }
+
+    #slider .logo-img {
+        top: 256px;
+        width: 33px;
+    }
+
+    #cup h2 {
+        font-size: 15px;
+        margin-left: 0px;
+    }
+
+    #cup p {
+        margin-left: 0px;
+   }
+
+    #cup .cupimg2 {
+        margin-left: 134px;
+        margin-top: -289px;
+    }
+    #profile h2 {
+        font-weight: bold;
+        font-size: 27px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    #profile h4 {
+        margin-left: -8px;
+    }
+    #profile .pro-p {
+        width: 100%;
+        margin-left: -2px;
+        text-align: justify;
+    }
+
+
+}
